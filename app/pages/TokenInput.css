@@ -1,0 +1,36 @@
+.token-input-container {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+  }
+  
+  .token-input-container form {
+    margin-bottom: 20px;
+  }
+  
+  .token-input-container label {
+    margin-right: 10px;
+  }
+  
+  .token-input-container input {
+    padding: 8px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .token-input-container button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .token-info-container {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  

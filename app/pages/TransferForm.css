@@ -1,0 +1,44 @@
+.transfer-form-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .transfer-form-container form {
+    margin-bottom: 20px;
+  }
+  
+  .form-input {
+    margin-bottom: 10px;
+  }
+  
+  .form-input label {
+    margin-right: 10px;
+  }
+  
+  .form-input input {
+    padding: 8px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .form-input button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .success-message {
+    color: green;
+    margin-top: 10px;
+  }
+  
+  .balance-info {
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
