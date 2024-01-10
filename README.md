@@ -44,7 +44,7 @@ npm install
 ```
 ### Launch 
 ```bash
-npm start dev
+npm run dev
 ```
 ## Technical explanation 
 
